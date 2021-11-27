@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blog-react/static/css/main.ae127287.chunk.css",
+    "main.js": "/blog-react/static/js/main.bfdbf66c.chunk.js",
+    "main.js.map": "/blog-react/static/js/main.bfdbf66c.chunk.js.map",
+    "runtime-main.js": "/blog-react/static/js/runtime-main.572b1907.js",
+    "runtime-main.js.map": "/blog-react/static/js/runtime-main.572b1907.js.map",
+    "static/js/2.e9fb9b98.chunk.js": "/blog-react/static/js/2.e9fb9b98.chunk.js",
+    "static/js/2.e9fb9b98.chunk.js.map": "/blog-react/static/js/2.e9fb9b98.chunk.js.map",
+    "static/js/3.1eb84f8b.chunk.js": "/blog-react/static/js/3.1eb84f8b.chunk.js",
+    "static/js/3.1eb84f8b.chunk.js.map": "/blog-react/static/js/3.1eb84f8b.chunk.js.map",
+    "index.html": "/blog-react/index.html",
+    "static/css/main.ae127287.chunk.css.map": "/blog-react/static/css/main.ae127287.chunk.css.map",
+    "static/js/2.e9fb9b98.chunk.js.LICENSE.txt": "/blog-react/static/js/2.e9fb9b98.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/blog-react/static/media/dev2.9c9014a8.jpeg",
+    "static/media/temp_man2.ef0ca6a9.jpg": "/blog-react/static/media/temp_man2.ef0ca6a9.jpg",
+    "static/media/white-logo.b11fdfc7.webp": "/blog-react/static/media/white-logo.b11fdfc7.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.572b1907.js",
+    "static/js/2.e9fb9b98.chunk.js",
+    "static/css/main.ae127287.chunk.css",
+    "static/js/main.bfdbf66c.chunk.js"
+  ]
+}
